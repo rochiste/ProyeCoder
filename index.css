@@ -1,0 +1,36 @@
+header {
+    background-color: rgb(233, 182, 212);
+    margin: 20px;
+}
+
+ .titulouno {
+    font-style: oblique;
+    text-align: center;
+    color: white;
+    margin: 15px;
+}
+
+.titulodos {
+    text-align: center;
+    margin: 15px;
+    color: white;
+}
+
+.formulario {
+    text-align: center;
+    margin: 15px;
+}
+.row {
+    height: 400px;
+    width: 400px;
+    
+}
+
+.botonfin {
+    text-align: center;
+    margin: 20px;
+}
+
+.card.body {
+    text-align: center;
+}
